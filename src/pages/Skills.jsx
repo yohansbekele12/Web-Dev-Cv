@@ -11,7 +11,7 @@ const Skills = (props) => {
     <div
       className="hero min-h-screen "
       style={{
-        backgroundImage: `url(${props.pic})`,
+        backgroundImage: "",
       }}
     >
       {" "}
